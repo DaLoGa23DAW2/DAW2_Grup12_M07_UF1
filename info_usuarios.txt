@@ -1,0 +1,6 @@
+Nombre: Alfred, Correo: 123@1232, Hash: $2y$10$sd8urC1Ft67K.Ch6SZuLWuRFu12WYpkoMyh0xzCNgJ2Q3ihp5RMju, Rol: gestor
+Nombre: juanca, Correo: admin@edu, Hash: $2y$10$WNwNI4xmVZqn.9QdKbsxU.UJzNZ2e//tRsLgr6tl6NnuWgT6CrEpu, Rol: admin
+nombre: David, correo: 15584248.clot@edu.fje, hash: $2y$10$i7dsEk3bTdo5cmNhgaG9ceLHhrzW97tXrn7h/8fxpg8uVdAhJpNzW, Rol: gestor
+Nombre: helena, Correo: david@David, Hash: $2y$10$SNYe3968l2s6gHBGRfxcB.tJcft4iDqcSZBRI5eIMHOgMCLMrNtbG, Rol: gestor
+Nombre: Cliente, Correo: cliente@cli, Contraseña: $2y$10$xdkieAWrpussNVE48oZnPuBpWTm6u0vFWfrkGyNg3csI68aySNwCu, Rol: cliente
+

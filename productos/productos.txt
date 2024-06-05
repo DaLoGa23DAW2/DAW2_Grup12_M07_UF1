@@ -1,0 +1,9 @@
+1111:camiseta1:img/img1.jpg:40:10
+2222:camiseta2:img/img1.jpg:45:50
+3333:camiseta3:img/img1.jpg:50:15
+4444:camiseta4:img/img1.jpg:60:20
+5555:camiseta5:img/img1.jpg:55:25
+6666:camiseta6:img/img1.jpg:15:40
+7777:camiseta7:img/img1.jpg:60:20
+8888:camiseta8:img/img1.jpg:15:50
+12:Barça:img/img4.jpg:99:99

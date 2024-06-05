@@ -1,0 +1,2 @@
+2222:camiseta2:img/img1.jpg:45:3
+3333:camiseta3:img/img1.jpg:50:2
